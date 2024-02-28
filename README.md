@@ -1,1 +1,0 @@
-An interactive minimalistic shell
